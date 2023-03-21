@@ -1,6 +1,7 @@
 # Air Quality Monitoring System
 <h2>Description</h2>
-This code is used to monitor air quality with a four-sensor system that measures the concentration of gases such as CO, CO2, and NH3. The system also measures temperature and humidity using a BME280 sensor.
+This code is used to monitor air quality with a four-sensor system that measures the concentration of gases such as CO, CO2, and NH3. The system also measures temperature and humidity using a BME280 sensor.<br>
+<b>2020</b>
 
 <h2>Hardware Required</h2>
 - Arduino board <br>
@@ -41,4 +42,5 @@ If there is input data available on the serial monitor, the system reads it and 
 - <b>'regression()'</b>: Calculates the regression line for each gas sensor using the measured data from the four gas sensors and a calibration dataset.<br>
 
 <h2>License</h2>
-This program is licensed under the MIT License. See the LICENSE file for details.
+
+This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
