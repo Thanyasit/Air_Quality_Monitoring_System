@@ -41,7 +41,7 @@ If there is input data available on the serial monitor, the system reads it and 
 - <b>'loop()'</b>: Reads the sensor data, performs regression analysis, and calculates the gas concentration of each sensor.<br>
 - <b>'regression()'</b>: Calculates the regression line for each gas sensor using the measured data from the four gas sensors and a calibration dataset.<br>
 
-## Example
+## Example Chamber 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77733903/226969550-c57abcc8-f801-402d-8713-8824cc9c3cee.JPG" width="500"><img src="https://user-images.githubusercontent.com/77733903/226969593-e0617e17-bb66-4cc8-a402-5d49bc5b16fa.JPG" width="500">
