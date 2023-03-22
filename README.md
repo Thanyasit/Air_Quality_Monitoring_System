@@ -43,6 +43,8 @@ If there is input data available on the serial monitor, the system reads it and 
 
 ## Example Chamber 
 
+[Excel auto graph](https://www.youtube.com/watch?v=n86BISk9gv4)
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77733903/226969550-c57abcc8-f801-402d-8713-8824cc9c3cee.JPG" width="500"><img src="https://user-images.githubusercontent.com/77733903/226969593-e0617e17-bb66-4cc8-a402-5d49bc5b16fa.JPG" width="500">
 </p>
